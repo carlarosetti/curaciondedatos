@@ -1,3 +1,4 @@
 # curaciondedatos
 
-Para correrlo, clonarlo en una computadora con anaconda con un python 3.
+Para correr las notebooks: 
+Descargar el directorio en una computadora con Anaconda (correr con python 3).
